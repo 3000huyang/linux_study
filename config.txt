@@ -1,0 +1,13 @@
+无线网卡模式切换： sudo usb_modeswitch -KW -v 0bda -p 1a2b
+磁盘空间：
+df -h
+sudo fdisk -l
+磁盘查看  开始菜单
+gnome-disks
+
+磁盘格式化
+https://www.cnblogs.com/vipchenwei/articles/6909324.html
+
+修改权限为普通用户权限：sudo chmod 777 home/XXX/XXX
+
+
